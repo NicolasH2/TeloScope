@@ -19,3 +19,7 @@ During the first 5 pictures FiJi will ask you to:
 - set the telomere sensitivity level
 
 For every picture you will be asked to draw an area in the picture for the background correction. Next to that message and the actual picture will be a window with some sliders. It is recommended to use the second slider, shifting it to the right to see which areas still have background. When drawing the area, you should prefer those places that are darkest, even when the slider is far to the right.
+
+# cut_images
+
+For some purposes it might be usefull to but the image before analyzing it. For example if you have an organ section but only want to measure telomere intensity in a certain area of that organ. With cut_images you can load all images and select the area you want to keep. This will be saved as a separate picture which you can than analyze with TeloScope
