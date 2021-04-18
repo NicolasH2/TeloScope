@@ -1,10 +1,10 @@
 # Get FiJi and the BioVoxxel plug-in
 
 - Download [FiJi](https://imagej.net/Fiji/Downloads) and start it
-- Navigate to ´Help´-´Update´... (doing this the first time will take some time and you might need to restart; go again on Help-Update...)
+- Navigate to `Help`-`Update`... (doing this the first time will take some time and you might need to restart; go again on Help-Update...)
 - A window will open, click on the lower left [Manage update sites]
-- Look for the [BioVoxxel](https://www.biovoxxel.de/) Toolbox, click on the box on its left to leave a checkmark, then click on ´Close´
-- Restart FiJi; if you go on ´Help´-´Update...´ again, you should be prompted with a message "Your ImageJ is up to date!". If not, restart again.
+- Look for the [BioVoxxel](https://www.biovoxxel.de/) Toolbox, click on the box on its left to leave a checkmark, then click on `Close`
+- Restart FiJi; if you go on `Help`-`Update...` again, you should be prompted with a message "Your ImageJ is up to date!". If not, restart again.
 
 # TeloScope
 
