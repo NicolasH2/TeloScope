@@ -1,0 +1,8 @@
+TeloScope
+Title: Quantify telomere intensity in qFISH images
+Depends: ImageJ 1.53c, Biovoxxel
+Version: 0.1.1
+Author: Nicolas Huber
+Maintainer: Nicolas Huber <info.huber@aold.de>
+Description: Quantify telomere intensity in qFISh images. Telomeres will be attributed to cells, depending on the background staining (typically DAPI)
+License: MIT
