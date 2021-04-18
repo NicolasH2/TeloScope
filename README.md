@@ -3,7 +3,7 @@
 - Download [FiJi](https://imagej.net/Fiji/Downloads) and start it
 - Navigate to `Help`-`Update...` (the first time might take a few minutes)
 - If asked to restart, do so and again navigate to `Help`-`Update...`
-- A window will open, click on the lower left [Manage update sites]
+- A window will open, click on the lower left `Manage update sites`
 - Look for the [BioVoxxel](https://www.biovoxxel.de/) Toolbox, click on the box on its left to leave a checkmark, then click on `Close`
 - Restart FiJi; if you go on `Help`-`Update...` again, you should be prompted with a message "Your ImageJ is up to date!". If not, restart again.
 
