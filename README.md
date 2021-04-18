@@ -1,7 +1,14 @@
+# Get FiJi and the BioVoxxel plug-in
+
+- Download [FiJi](https://imagej.net/Fiji/Downloads) and start it
+- Navigate to [Help]-[Update]... (doing this the first time will take some time and you might need to restart; go again on Help-Update...)
+- A window will open, click on the lower left [Manage update sites]
+- Look for the BioVoxxel Toolbox, click on the box on its left to leave a checkmark, then click on [Close]
+- Restart FiJi; if you go on [Help]-[Update...] again, you should be prompted with a message "Your ImageJ is up to date!". If not, restart again.
+
 # TeloScope
 
-TeloScope was made to quantify telomere intensity signals from qFISH experiments. However, it is just as well suited to quantify other foci as long as they are in front of a background staining, such as nuclear staining (DAPI, etc.).
-Using TeloScope is simple IF you have all the prerequisites in you FiJi version. You will need the BioVoxxel plug-in to use TeloScope.
+TeloScope was made to quantify telomere intensity signals from qFISH experiments. However, it is just as well suited to quantify other foci as long as they are in front of a background staining, such as nuclear staining (DAPI, etc.). Note: TeloScope was only tested on Windows 10.
 
 ## How to start TeloScope
 
